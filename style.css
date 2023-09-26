@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+.carousel-inner img{
+    height: 90vh;
+    width:100% ;
+}
+.card-body img{
+   min-width:  50%;
+    max-height: 200px;
+}
+.about img{
+    height: 60vh;
+    width: 70%;
+}
+.team img{
+    width: 50%;
+     height: 25vh;
+    
+}
+.contact img{
+    height: 60vh;
+    width: 70%;
+}
